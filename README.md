@@ -4,7 +4,7 @@
 
 Open-source wearable haptic metronome designed for promoting speech fluency. Firmware is STM32G431-based; mechanical and manufacturing files included separately.
 
-This is a project of [Capella Speech](https://capella-speech.org), a student-run organization focused on raising awareness and gathering accessible resources for speech impairment. Originally designed by Capella Speech; manufacturable version developed in collaboration with [哇一机器人](https://wayi-edu.com/).
+This is a project of [Capella Speech](https://capella-speech.org), a student-run organization focused on raising awareness and gathering accessible resources for speech impairment. Originally designed by Capella Speech; manufacturable version of metronome developed in collaboration with [哇一机器人](https://wayi-edu.com/).
 
 > Note: This repository contains only the most basic project assets. For access to detailed and complete project files, including PCB schematics and firmware source code, please contact the repository owner.
 
@@ -13,3 +13,6 @@ This is a project of [Capella Speech](https://capella-speech.org), a student-run
 - `hardware` — Mechanical design files: CAD models
 - `firmware` — Not included in this repository; contact the repository owner for access
 - `app` — Companion app (React Native)
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
